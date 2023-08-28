@@ -1,7 +1,8 @@
 import "./App.css";
+import RecipePage from "./pages/RecipePage";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return <RecipePage />;
 }
 
 export default App;
