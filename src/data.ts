@@ -1,6 +1,6 @@
 export const recipeData = {
   name: "Abacha",
-  imageURL: "/public/abacha.jpg",
+  imageURL: "/abacha.jpg",
   introduction:
     "There's only one kind of salad that i'll never complain about eating, heck, i'll gladly go on an African Salad diet and you won't hear a squeak for me. It is a delicious Igbo delicacy that's very easy to throw together and doesn't require a lot of ingredients. Here's how:",
   ingredients: [
