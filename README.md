@@ -108,15 +108,15 @@ The following show the display of the web page across multiple devices.
 <tr>
 <td>
   
-<img src="./screenshots/mobile-1.png" alt="Logo" width="300" />
+<img src="./screenshots/mobile-1.png" alt="Logo" />
 </td>
 
 <td> 
-<img src="./screenshots/mobile-2.png" alt="Logo" width="300" />
+<img src="./screenshots/mobile-2.png" alt="Logo" />
 </td>
 
 <td>
-<img src="./screenshots/mobile-3.png" alt="Logo" width="300" />
+<img src="./screenshots/mobile-3.png" alt="Logo" />
 </td>
 </tr>
 </table>
